@@ -1,0 +1,2246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+   <pbcoreAssetType>Segment</pbcoreAssetType>
+   <pbcoreAssetDate dateType="Created">XXXX</pbcoreAssetDate>
+   <pbcoreAssetDate dateType="Published">XXXX</pbcoreAssetDate>
+   <pbcoreIdentifier source="California Revealed" annotation="Object Identifier">xxchillco_000047</pbcoreIdentifier>
+   <pbcoreIdentifier source="California Revealed" annotation="Project Identifier">cavpp00117440</pbcoreIdentifier>
+   <pbcoreIdentifier source="California Revealed" annotation="Internet Archive URL">https://archive.org/details/xxchillco_000042</pbcoreIdentifier>
+   <pbcoreIdentifier source="California Revealed" annotation="California Revealed Node URL">https://californiarevealed.org/node/542535</pbcoreIdentifier>
+   <pbcoreIdentifier source="California Digital Library" annotation="ARK Identifier">https://oac.cdlib.org/findaid/ark:/13030/c8gx4h2s/dsc/#c01-1.2.11.7</pbcoreIdentifier>
+   <pbcoreIdentifier source="OCLC" annotation="OCLC Number">URI transcode issue re-emerged</pbcoreIdentifier>
+   <pbcoreTitle titleType="Main">xxchillco test make Partner 2024-06-03</pbcoreTitle>
+   <pbcoreTitle titleType="Alternative">xxchillco test make Partner 2024-06-03</pbcoreTitle>
+   <pbcoreTitle titleType="Series">xxchillco test make Partner 2024-06-03</pbcoreTitle>
+   <pbcoreSubject subjectType="Topic" source="Library of Congress Subject Headings">Child Behavior Checklist</pbcoreSubject>
+   <pbcoreSubject subjectType="Entity" source="Library of Congress Name Authority File">Things (Musical group)</pbcoreSubject>
+   <pbcoreDescription descriptionType="Content Summary">xxchillco test make Partner 2024-06-03</pbcoreDescription>
+   <pbcoreGenre source="Library of Congress Genre/Form Terms">Interludes (Music)</pbcoreGenre>
+   <pbcoreGenre source="Library of Congress Genre/Form Terms">Oral histories</pbcoreGenre>
+   <pbcoreCoverage>
+      <coverage source="Library of Congress Name Authority File">Warsaw (Mo.)</coverage>
+      <coverageType>Spatial</coverageType>
+   </pbcoreCoverage>
+   <pbcoreCoverage>
+      <coverage source="Library of Congress Extended Date/Time Format">XXXX</coverage>
+      <coverageType>Temporal</coverageType>
+   </pbcoreCoverage>
+   <pbcoreCreator>
+      <creator>CHILD (Project)</creator>
+      <creatorRole>Creator</creatorRole>
+   </pbcoreCreator>
+   <pbcoreRightsSummary>
+      <rightsSummary source="CA-R Test Partner" annotation="Copyright Statement">xxchillco test make Partner 2024-06-03</rightsSummary>
+   </pbcoreRightsSummary>
+   <pbcoreRightsSummary>
+      <rightsSummary source="CA-R Test Partner" annotation="Copyright Holder Info">xxchillco test make Partner 2024-06-03</rightsSummary>
+   </pbcoreRightsSummary>
+   <pbcoreRightsSummary>
+      <rightsSummary source="CA-R Test Partner" annotation="Copyright Date">XXXX</rightsSummary>
+   </pbcoreRightsSummary>
+   <pbcoreRightsSummary>
+      <rightsSummary source="CA-R Test Partner" annotation="Copyright Notice">xxchillco test make Partner 2024-06-03</rightsSummary>
+   </pbcoreRightsSummary>
+   <!--Physical Asset - Part 1-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">1</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 2-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">2</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 3-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">3</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 4-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">4</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 5-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">5</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 6-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">6</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 7-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">7</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 8-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">8</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 9-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">9</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 10-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">10</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 11-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">11</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 12-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">12</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 13-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">13</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 14-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">14</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 15-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">15</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 16-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">16</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 17-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">17</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 18-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">18</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 19-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">19</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 20-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">20</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 21-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">21</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Physical Asset - Part 22-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="Item Identifier">xxchillco_000047</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Call Number">xxchillco test make Partner 2024-06-03</instantiationIdentifier>
+      <instantiationIdentifier source="CA-R Test Partner" annotation="Temporary Identifier">URI transcode issue re-emerged</instantiationIdentifier>
+      <instantiationPhysical source="PBCore instantiationPhysical Controlled Vocabulary">Grooved Dictabelt</instantiationPhysical>
+      <instantiationLocation>CA-R Test Partner</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations source="PBCore instantiationGenerations Controlled Vocabulary">Line cut</instantiationGenerations>
+      <instantiationColors>Color</instantiationColors>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+         <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      </instantiationEssenceTrack>
+      <instantiationAnnotation annotation="Part">22</instantiationAnnotation>
+      <instantiationAnnotation annotation="Sides or Parts">22 disc</instantiationAnnotation>
+      <instantiationAnnotation annotation="Silent or Sound">Silent</instantiationAnnotation>
+      <instantiationAnnotation annotation="Running Speed">29.97 fps</instantiationAnnotation>
+      <instantiationAnnotation annotation="Track Standard">PAL</instantiationAnnotation>
+      <instantiationAnnotation annotation="Stock Manufacturer">dafsd</instantiationAnnotation>
+      <instantiationAnnotation annotation="Base Type">Nitrate</instantiationAnnotation>
+      <instantiationAnnotation annotation="Condition Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Additional Technical Notes">URI transcode issue re-emerged</instantiationAnnotation>
+      <instantiationAnnotation annotation="Container and Item Annotations">URI transcode issue re-emerged</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00001_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">6e3fae38df31b2e132515c32b21b2266</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00002_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">1e16a80fb42ccad1b35a2f256145318b</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00003_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">263dff68343bf08807b16f91f4575764</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00004_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">424352d85041241b966010bc63e7ea23</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00005_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">150c4687029c15d48b4d961e2fa10bd0</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00006_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">03b1329d2c3e01373789f0e879d10099</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00007_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">f2fd3dca88d88945ad57c756590a50ba</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00008_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">74900d31a6c7b1c3ee25086f7d05e908</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00009_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">0ac6b5731f1a6f7090c7efdf21880306</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00010_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">070b61fbdfda23afe7aef91488b83b28</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00011_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">2ffbf7796591c2ac584133c967d0952b</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00012_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">7e6dd8600862884656509e4aa86e6a8b</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00013_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">e52f3012d482c3af254e498c3b170ca3</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00014_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">4047c99aa12f4ebd96528d9d17fe2350</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00015_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">89ecef9d25b00ad16e04e0863bff1732</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00016_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">160fdca605307f29e09a4357822eec67</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00017_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">7fa19457c48aeabc4740d89f18096a0e</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00018_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">eadfd11ce0b168f39a14ab77492222b1</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00019_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">6a1ddd6565bc08af48e429ffd571774a</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00020_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">304817ecef74890c211fe2766c596fde</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00021_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">eab3d930698b94b5c828e498b36847f8</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Preservation Master-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00022_prsv.wav</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">5aea49a81a52173f88b8765efa68e1d9</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:13:00Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/vnd.wave</instantiationDigital>
+      <instantiationStandard>wav</instantiationStandard>
+      <instantiationLocation>California Revealed Digital Repository</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Preservation Master</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">88278</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">706224</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>PCM signed 16-bit little-endian</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">705600</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackBitDepth>16</essenceTrackBitDepth>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="Object Identifier">xxchillco_000047</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">WAV / WAVE (Waveform Audio)</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00001_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">9031925582d209cc0292bf35fc4b5fce</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15901</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127208</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00001_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">116604</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00001_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00002_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">ba5488fd6694ad078124b0b18016261c</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15964</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127712</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00002_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117097</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00002_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00003_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">946b209e05b0532ed7b6f87c62f2c257</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16036</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">128288</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00003_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117659</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00003_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00004_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">40f34a84dc79b08b83b3828a6cebf8e8</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16259</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">130072</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00004_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119403</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00004_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00005_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">38b959d9e3c7fec4c38464c48e6a1978</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16224</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129792</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00005_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119129</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00005_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00006_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">b7012e166584b7ff794f2321f42745e3</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16251</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">130008</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00006_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119340</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00006_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00007_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">113557dd270cfd4d94dc0e8ebc288f3d</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15931</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127448</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00007_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">116839</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00007_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00008_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">1c12f1f8c0791ce3c3ad2882b84e5a53</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16317</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">130536</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00008_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119856</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00008_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00009_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">ec9908f8b9b6d379afea96ce8a689f93</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16154</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129232</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00009_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118582</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00009_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00010_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">df621a56af7054b24168d0aee823b95c</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16281</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">130248</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00010_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119575</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00010_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00011_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">3e1afca4f4654dba8cdb8d541ab82c98</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15956</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127648</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00011_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117034</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00011_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00012_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">ade39a4c5296e19ea9f93cfd7057c99e</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16192</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129536</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00012_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118879</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00012_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00013_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">099d7bbbc40152e46b9a4e4db53f8cda</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15967</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127736</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00013_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117120</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00013_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00014_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">20bc018e0ab2a48d41bb8ee8e07ab797</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15924</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">127392</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00014_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">116784</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00014_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00015_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">93e1d90f5c2f3d8ac1b244c78f2da94a</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16205</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129640</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00015_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118981</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00015_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00016_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">4d7cdb2504494059b548f173c1c92738</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">15695</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">125560</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00016_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">114993</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00016_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00017_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">1268a3589f27b53263cb96ecf63875a2</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16004</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">128032</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00017_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117409</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00017_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00018_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">d2c057552b9ba90b0d8e3675814e8b8f</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16199</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129592</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00018_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118934</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00018_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00019_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">df895da973c36d340d89be9e383aab06</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16084</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">128672</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00019_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118035</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00019_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00020_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">23b0e4cfb28854a31450e9c354e970a0</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16281</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">130248</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00020_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">119575</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00020_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00021_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">16865ce5fe46600bc29edbd1a945be86</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:13:00Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16128</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">129024</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00021_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">118379</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00021_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Access Copy-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00022_access.m4a</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">e1cd39a7d801dfcba823b2bf6b0dc4ea</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:13:00Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">audio/mp4</instantiationDigital>
+      <instantiationStandard>m4a</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Sound</instantiationMediaType>
+      <instantiationGenerations>Access Copy</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">16043</instantiationFileSize>
+      <instantiationDuration>00:00:01</instantiationDuration>
+      <instantiationDataRate unitsOfMeasure="bits/second">128344</instantiationDataRate>
+      <instantiationLanguage source="ISO 639.2">abk</instantiationLanguage>
+      <instantiationAlternativeModes>Captions (WebVTT): xxchillco_000047_f00022_access.vtt</instantiationAlternativeModes>
+      <instantiationEssenceTrack>
+         <essenceTrackType>Audio</essenceTrackType>
+         <essenceTrackEncoding>AAC (Advanced Audio Coding)</essenceTrackEncoding>
+         <essenceTrackDataRate unitsOfMeasure="bits/second">117714</essenceTrackDataRate>
+         <essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+         <essenceTrackAnnotation annotation="Channels">1</essenceTrackAnnotation>
+      </instantiationEssenceTrack>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00022_prsv.wav</instantiationRelationIdentifier>
+      </instantiationRelation>
+      <instantiationAnnotation annotation="Container Format">QuickTime / MOV</instantiationAnnotation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00001_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">2cc205ebe84e47ad59a91f4be42d3f41</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00001_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00002_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">d86e0849dcc2a792aba52255900860ba</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00002_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00003_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">4d33f079d16b4786b081b49266954aaf</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:57Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00003_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00004_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">efcbcd6f18e3fecfa6f73d0b7fc55b3a</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00004_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00005_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">6dd10b628ee46dd44ee57ab817a3f016</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00005_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00006_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">f7dfdef1f740b1c54b624111bd9193c5</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00006_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00007_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">e765f340d0dd811bf0d1b0ace37d7221</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00007_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00008_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">e1476eceac3723f8323b79519c38c198</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00008_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00009_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">16b665a74ffbfed79b24a8998052fd95</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">46</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00009_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00010_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">a7108092ae0d59904851f93cdff0641f</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00010_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00011_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">d9ff1009a90d2f2393f845e82ee9eeaa</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:58Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00011_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00012_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">d089d39ddd535fcc0e220008acc867c1</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00012_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00013_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">fc70e9c2ed6d748f971882b4de36954f</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00013_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00014_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">12a796b25113f2cba07d3fe6cf377ec7</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00014_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00015_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">f3df9acbc9d8c044d0852f60be77ae9e</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00015_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00016_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">b82407cdcdcc69f4edff649ef794d4f2</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00016_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00017_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">e14b07a960645335eb05c2cd66c11916</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00017_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00018_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">67ad3c3c02ed473e96855dd48a213406</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00018_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00019_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">a4f2c74866eb7fb2ae4ce5eeb47ece5a</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00019_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00020_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">7585dad2d48110270c7d9d537a7d0b2b</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:12:59Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00020_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00021_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">256f39b75f3ed45dbaa27bfa1739b4e8</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:13:00Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00021_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <!--Caption File-->
+   <pbcoreInstantiation>
+      <instantiationIdentifier source="California Revealed" annotation="File Name">xxchillco_000047_f00022_access.vtt</instantiationIdentifier>
+      <instantiationIdentifier source="California Revealed" version="MD5" annotation="Checksum">5a7bb8b230249d4b2c361a2eee8bb47e</instantiationIdentifier>
+      <instantiationDate dateType="File Modification">2026-07-23T23:13:00Z</instantiationDate>
+      <instantiationDigital source="IANA Media Types">text/vtt</instantiationDigital>
+      <instantiationStandard>vtt</instantiationStandard>
+      <instantiationLocation>californiarevealed.org</instantiationLocation>
+      <instantiationMediaType>Text</instantiationMediaType>
+      <instantiationGenerations>Caption File</instantiationGenerations>
+      <instantiationFileSize unitsOfMeasure="bytes">47</instantiationFileSize>
+      <instantiationRelation>
+         <instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+         <instantiationRelationIdentifier annotation="File Name">xxchillco_000047_f00022_access.m4a</instantiationRelationIdentifier>
+      </instantiationRelation>
+   </pbcoreInstantiation>
+   <pbcoreAnnotation annotation="Extent">22 disc</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Significance">xxchillco test make Partner 2024-06-03</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Condition">Fair</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Condition Note">xxchillco test make Partner 2024-06-03</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Collection Guide Title">xxchillco test make Partner 2024-06-03</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Collection Guide URL">https://salinaspubliclibrary.org/</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Transcript">xxchillco test make Partner 2024-06-03</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Transcript URL">https://www.mikesgoodstuff.com</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Funder">LSTA</pbcoreAnnotation>
+   <pbcoreAnnotation annotation="Grant Cycle">2023/2024</pbcoreAnnotation>
+   <pbcoreExtension>
+      <extensionWrap>
+         <extensionElement>CountryOfCreation</extensionElement>
+         <extensionValue>DZ</extensionValue>
+         <extensionAuthorityUsed>ISO 3166.1</extensionAuthorityUsed>
+      </extensionWrap>
+   </pbcoreExtension>
+   <pbcoreExtension>
+      <extensionWrap>
+         <extensionElement>Project Note</extensionElement>
+         <extensionValue>California Revealed</extensionValue>
+         <extensionAuthorityUsed>California Revealed</extensionAuthorityUsed>
+      </extensionWrap>
+   </pbcoreExtension>
+</pbcoreDescriptionDocument>
