@@ -2,25 +2,25 @@
 
 **PBCore 2.1 XML generator for California Revealed digital preservation packages.**
 
-`pbcorethat` generates one `<ObjectID>_PBCore.xml` metadata record per packaged audiovisual object, describing the object at the moment of file normalization and packaging. Each record combines descriptive metadata from an Archipelago **AV data baseline** CSV export with technical metadata harvested directly from the preservation, mezzanine, access, and caption files themselves.
+`pbcorethat` generates one `<ObjectID>_PBCore.xml` metadata record per packaged audiovisual object, describing the object at the moment of file normalization and packaging. Each record combines descriptive metadata from an Archipelago **AV data baseline** CSV export with technical metadata harvested directly from the preservation, mezzanine, access, and caption files.
 
-This is a ground-up, cross-platform Python 3 rewrite of the legacy [`pbcorethat` bash microservice](https://github.com/CAVPP/cavppers) from the California Audiovisual Preservation Project (CAVPP) `cavppers` toolset. The rewrite replaces the Homebrew-distributed bash/xmlstarlet/xsltproc pipeline with a single dependency-free Python script that runs identically on macOS, Windows, and Linux, and produces richer, vendor-style PBCore output.
+This is a ground-up, cross-platform Python 3 rewrite of the legacy [`pbcorethat` bash microservice](https://github.com/CAVPP/cavppers) from the California Audiovisual Preservation Project (CAVPP) `cavppers` toolset. The rewrite replaces the Homebrew-distributed bash xmlstarlet xsltproc pipeline with a single dependency-free Python script that runs on macOS, Windows, and Linux, and produces richer PBCore output.
 
 ## Features
 
-- **Single-file, standard-library-only** — no Homebrew, no `csvprintf`, `xmlstarlet`, or `xsltproc`; runs anywhere Python 3.9+ is installed
-- **Machine-readable CSV input** — reads the Archipelago AV data baseline export directly; no more maintaining a dedicated Islandora-style export for one tool
-- **Selective processing** — only objects with `obj_media_type` of `Sound` or `Moving Image` are processed; Text and Still Image objects (which receive DC-based XML from a separate tool) are skipped and reported
-- **Skip-and-report, never crash** — rows missing an `obj_object_identifier`, rows with no matching package folder, folders with no inventory row, and unclassifiable files are all reported in a run summary rather than halting the batch
-- **Multipart-aware** — parses Archipelago's `#N::` multipart delimiter in `obj_av_item_parts__ip_*` columns and aligns values across fields by part number, emitting one Physical Asset instantiation per item part
-- **Technical metadata harvesting** — probes each file with MediaInfo (preferred), pymediainfo, or ffprobe, capturing dimensions, codecs, frame rates, bit depths, sample rates, channels, durations, and data rates; degrades gracefully to file size, modification date, and checksum when no probe tool is available
+- **Single-file, standard-library-only** — runs anywhere Python 3.9+ is installed
+- **Machine-readable CSV input** — reads the California Revealed Archipelago AV data baseline export directly.
+- **Selective processing** — only objects with `obj_media_type` of `Sound` or `Moving Image` are processed; `Text` and `Still Image` objects (which receive DC-based XML from a separate tool) are skipped and reported
+- **Skip-and-report** — rows missing an `obj_object_identifier`, rows with no matching package folder, folders with no inventory row, and unclassified files are all reported in a run summary rather than halting the batch
+- **Multipart-aware** — parses California Revealed Archipelago's `#N::` multipart delimiter in `obj_av_item_parts__ip_*` columns and aligns values across fields by part number, emitting one Physical Asset instantiation per item part
+- **Technical metadata harvesting** — probes each file with MediaInfo (preferred), pymediainfo, or ffprobe, capturing dimension, codecs, frame rate, bit depth, sample rate, channels, duration, and data rates; degrades to just file size, modification date, and checksum when no probe tool is available
 - **Checksum capture** — reads existing `.md5` sidecars into MD5 `instantiationIdentifier` elements
 - **Caption support** — WebVTT files are described as discrete Caption File instantiations related to their access copies, and access copies with captions receive `instantiationAlternativeModes`
 - **Audit-friendly** — optional timestamped log file, XSD validation, dry-run mode, and scripting-ready exit codes
 
 ## Requirements
 
-**Required:** Python 3.9 or later.
+**Required:** Python 3.9 or later. Tested and used on Python 3.13.
 
 - macOS: preinstalled, or install via [python.org](https://www.python.org) or Homebrew
 - Windows: [python.org](https://www.python.org) installer — check *Add python.exe to PATH* during setup
@@ -43,7 +43,7 @@ git clone https://github.com/<your-org>/pbcorethat.git
 
 ## Usage
 
-Point the script at a folder containing the baseline CSV export and the Object ID package folders:
+Point the script at the MARC directory containing the Object ID folders:
 
 ```
 python3 pbcorethat.py /path/to/marc_folder             # macOS / Linux
@@ -53,7 +53,7 @@ py pbcorethat.py D:\batches\xxchillco                  # Windows
 Options:
 
 ```
---csv PATH        Use a specific inventory CSV instead of the first *.csv found
+--csv PATH        Use a specific inventory CSV instead of the first *.csv found (preferred)
 --log [PATH]      Write a timestamped log (default: into the target directory)
 --validate        Validate output against the PBCore 2.1 XSD (requires lxml)
 --xsd PATH        Explicit path to pbcore-2_1.xsd for --validate
@@ -88,7 +88,7 @@ Files are classified by name token: `_prsv`, `_mezz`, `_access`, and the `.vtt` 
 
 Each object folder receives `<ObjectID>_PBCore.xml`, a PBCore 2.1 `pbcoreDescriptionDocument` containing, in schema order: descriptive metadata from the CSV (identifiers, titles, subjects, description, genre, coverage, agents by role, rights); one Physical Asset instantiation per item part, populated from the aligned `ip_*` columns; one instantiation per digital file with harvested technical metadata, checksums, and derivation relations (caption → access copy → preservation master → physical item); and closing `pbcoreAnnotation` and `pbcoreExtension` elements. Existing `_PBCore.xml` files are replaced, and the replacement is logged, since the record represents the current state of the package.
 
-The XML comments between instantiations (`<!--Physical Asset-->`, `<!--Preservation Master-->`, and so on) are human-readability aids only, mirroring vendor-deliverable conventions; `instantiationGenerations` carries the authoritative machine-readable equivalent.
+The XML comments between instantiations (`<!--Physical Asset-->`, `<!--Preservation Master-->`, and so on) are human-readability aids only; `instantiationGenerations` carries the authoritative machine-readable equivalent.
 
 ### Multipart (`#N::`) fields
 
